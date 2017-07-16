@@ -15,8 +15,7 @@ Player has to collect 10 keys to win the game.Each time a player collects a key 
 
 How to start the application
 ============================
-
-Unzip the folder and open index.html on your browser to run the application.
+Open index.html on your browser to run the application.
 
 
 Sources
